@@ -1,0 +1,23 @@
+Dataset/FORGERY                          #Filter Input
+FilteredDataset/FORGERY                  #Filter Output ; Interpolate Input
+InterpolatedDataset/FORGERY              #Interpolation Output; Classify input   [check for last bit]
+ClassifyDataset/FORGERY                  #ClassifyDataset Output; FeatureVector input  [replace 11 with 6; check for base]
+FeatureVector/FORGERY                    #Feature Vector Output ; 
+FeatureVector/FORGERY                    #Feature Vector Forgery ; Classifier Forgery Input
+FeatureVector/GENUINE/SESSION1           #Classifier genuine Input [temp2: 6 or 11 ]
+115                                      #MAX_NO_OF_USERS
+_f_                                      #Base for genuine and forgery files ; ONLY FOR FEATURE VECTOR
+0                                        #Last bit to append at the end of the feature vector
+
+
+Dataset/VisualSubCorpus/GENUINE/SESSION1 #Genuine Signature path
+Dataset/VisualSubCorpus/FORGERY 		 #Forgery Signature path
+FilteredDataset/GENUINE                  #Path to save genuine filteredPoints
+FilteredDataset/FORGERY                  #Path to save forgery filteredPoints
+InterpolatedDataset/GENUINE              #Path to save interpolated forgery dataset
+InterpolatedDataset/FORGERY              #Path to save interpolated genuine dataset
+ClassifyDataset/GENUINE                  #Path for Classify Genuine
+ClassifyDataset/Forgery                  #Path for Classify Forgery
+FeatureVector/GENUINE                    #Path for Genuine Feature Vector
+FeatureVector/FORGERY                    #Path for Forgery Feature Vector
+115                                      #MAX_NO_OF_USERS
