@@ -1,4 +1,4 @@
-Topic : Online Signature Verification on Mobile Devices using Machine Learning
+# Topic : Online Signature Verification on Mobile Devices using Machine Learning
 
 This project deals with the process of signature verification using some dynamic features of an online signature. The project also comes along with an Android Application that acts as a cheap medium to gain information about an signature. 
 Features associated with a signature are extracted using the Android Application and are then sent for pre-processing and feature extraction. 
