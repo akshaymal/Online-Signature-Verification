@@ -5,4 +5,4 @@ This project deals with the process of signature verification by training the sy
 Classifiers used - Support Vector Machine and Artifical Neural Networks
 Each user was trained with an individual classifier and optimal results were used using kernal trick and grid search.
 
-Done between August 2016 - November 2016
+##### Developed between August 2016 - November 2016
