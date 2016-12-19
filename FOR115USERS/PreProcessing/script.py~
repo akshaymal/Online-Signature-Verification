@@ -1,0 +1,15 @@
+from rdp import rdp
+import math
+import os
+import glob
+import ntpath
+
+#DATASET PATH
+paths = "Dataset/VisualSubCorpus/GENUINE/SESSION1/001_1_1.sig";
+#NEW DATASET PATH
+folername = "FilteredDataset/"
+
+
+ans = rdp([[1, 1],[2, 1],[3, 3], [4, 3], [5, 3], [6, 1], [7, 1],])
+
+print (ans);
