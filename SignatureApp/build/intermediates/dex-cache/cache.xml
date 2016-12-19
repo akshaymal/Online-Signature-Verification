@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bea3161c2e090106932a48df23ce4182420db65b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_4884e41a807ba1e04d6b2d6480007c44907171ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d060104f5e2fa260acf4c69897bd4a7ee8430f4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a45a4aa52e367f3d4620bccdecc92d9b57ab92d">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/instant-run_964dbe10b4872628997ab5b035338113ed7be99f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_8f462a518179d383d2a031fd75129abb04988480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_c3b5909207490c22d94e8837f180201d3d31c7cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d3643dad8cbfee428a1f5cc1f47c8317f33d17f">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1332d50b8b4ed361f3a34d197fa8eaf08ced7860.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_11c694f333492c09bab8190196250b8f9b9fdc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_4321e58c3a9e76fdee0d32e37252be280998c051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_bde44a5bdf002eed7322b4b8da66781b8c39f961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_beed2a589803762e436e942c9a71cee9676705d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_0e42c4e6c42dc1f0f9a6a679772bde266f57c388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_534479af7e442c33cb5701bc313952a425c8cc40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4ded7e154311a963f62ff6740a54e9806c936428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_383f9c740449cb6ca14c6a28fffca8df19b32901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_31b00dd0e112b951bc14d3fb0011be7e67789e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b1f76ecba57976e8ca09673140da68b018229429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_9d58b050dfab0311f00a48867afbb06acee6cf1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_0d74fb60d150b263c064b7634dde0984c0b0947f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/akshay/AndroidStudioProjects/SignatureApp4/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_f141010738bd03dfd2ef712c04fc5f27f4ef3627.jar" />
+    </item>
+
+</items>
